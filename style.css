@@ -1,0 +1,54 @@
+<style>
+* {margin: 0; padding: 0;} /* обнуляем отступы */
+body{
+	width: 1020px;
+	background-image: url(images/fon.jpg);
+	background-repeat: repeat;
+}
+h2{
+	font-family: Arial;
+	text-transform: uppercase;
+	font-size: 36px;
+	margin: 50px 0 0 140px;
+	padding-bottom: 10px;
+}
+img{
+	border: 1px solid #8f8f8f;
+	margin-left: 410px;
+}
+div{
+	margin-left: 260px;
+}
+div img{
+	border: none;
+	margin-left: 0;
+}
+p{
+	font-family: Arial;
+	font-size: 14px;
+}
+
+h4{
+	font-family: MyriadPro-It;
+	font-size: 18px;
+	margin: 5px 0 5px 0;
+}
+ul{
+	font-family: MyriadPro-It;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+ul li{
+	font-family: MyriadPro-It;
+	font-size: 14px;
+}
+a{
+	margin-left: 40px;
+	color: blue;
+}
+span{
+	font-family: MyriadPro-It;
+	font-size: 14px;
+	margin-left: 40px;
+}
