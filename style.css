@@ -2,7 +2,7 @@
 * {margin: 0; padding: 0;} /* обнуляем отступы */
 body{
 	width: 1020px;
-	background-image: url(images/fon.jpg);
+	background-image: url(img/fon.jpg);
 	background-repeat: repeat;
 }
 h2{
